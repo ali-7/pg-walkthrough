@@ -1,0 +1,26 @@
+{
+  "name": "pg-walkthrough",
+  "version": "2.0.0",
+  "description": "A walkthrough to get familiar with postgres connection using express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundersandcoders/pg-walkthrough.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foundersandcoders/pg-walkthrough/issues"
+  },
+  "homepage": "https://github.com/foundersandcoders/pg-walkthrough/#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
