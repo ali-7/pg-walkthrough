@@ -1,11 +1,3 @@
-**Author**: [@shiryz](https://github.com/shiryz)  
-
-**Maintainer**: TBC
-
-## Getting Started
-
-Clone this repo: git clone https://github.com/foundersandcoders/pg-walkthrough.git
-
 ## Learning Outcomes
 
 **Building a database**
@@ -29,4 +21,4 @@ Clone this repo: git clone https://github.com/foundersandcoders/pg-walkthrough.g
 This exercise is designed to get you familiar with connecting to a database, querying it and viewing that information.
 We'll be using the [npm module `pg`](https://www.npmjs.com/package/pg) to connect our node server to a locally-hosted Postgres database.
 
-Inspired by [Matthew Glover](https://github.com/matthewglover) and his awesome [pg-app](https://github.com/matthewglover/pg-app/)
+Inspired by [Matthew Glover](https://github.com/matthewglover) and his awesome [pg-app](https://github.com/matthewglover/pg-app/) and converted [Shireen Zoaby](https://github.com/shiryz) [original workshop](https://github.com/foundersandcoders/pg-walkthrough) to use express.
